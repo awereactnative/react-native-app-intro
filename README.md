@@ -20,6 +20,8 @@ expo start
 
 
 <img src="http://i.giphy.com/l3V0khy22aUviTTaM.gif">
+
+
 ### Code of App.js File
 
 ```javascript

@@ -13,10 +13,14 @@ react-native-app-intro is a react native component implementing a parallax effec
 ```bash
 $ npm i react-native-app-intro-slider --save
 ```
-
+## Run app
+```sh
+expo start
+```
 
 
 <img src="http://i.giphy.com/l3V0khy22aUviTTaM.gif">
+## Code of App.js File
 
 ```javascript
 import React, {useState} from 'react';
